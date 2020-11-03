@@ -1,3 +1,7 @@
+* {
+  font-family: "Playfair Display", serif;
+}
+
 .grid {
   display: flex;
   flex-wrap: wrap;
@@ -34,7 +38,7 @@
 }
 
 .inky {
-  background-color: cyan;
+  background-color: black;
 }
 
 .clyde {
