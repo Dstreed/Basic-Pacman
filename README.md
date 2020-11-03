@@ -14,7 +14,7 @@ c’est mon premier jeu basé sur les langages html, css et javascript le design
 - Github
 - Google Fonts
 
-## Functionnalité
+## Fonctionnalité
 
 - Les déplacements se font avec les touches directionnelles
 - Affichage du score
